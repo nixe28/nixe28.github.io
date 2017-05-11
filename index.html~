@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="./index_files/css(2)">
   <link rel="stylesheet" href="./index_files/material.css">
   <link rel="stylesheet" href="./index_files/tether.min.css">
-  <link rel="stylesheet" href="./index_files/bootstrap.min.css">
+  <!--link rel="stylesheet" href="./index_files/bootstrap.min.css"-->
   <link rel="stylesheet" href="./index_files/style.css">
   <link rel="stylesheet" href="./index_files/style(1).css">
   <link rel="stylesheet" href="./index_files/mbr-additional.css" type="text/css">
